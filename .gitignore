@@ -49,3 +49,10 @@ next-env.d.ts
 # database
 /prisma/dev.db
 /prisma/dev.db-journal
+
+# playwright test artifacts
+/.playwright-mcp
+
+# claude code local config
+/.claude
+/.claude/settings.local.json
